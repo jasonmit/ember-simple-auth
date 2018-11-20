@@ -3143,9 +3143,9 @@ ember-source-channel-url@^1.1.0:
   dependencies:
     got "^8.0.1"
 
-ember-source@~3.3.0:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-3.3.1.tgz#bcac785b32d5e99867e236979c3fb34536659ecd"
+ember-source@~3.4.0:
+  version "3.4.6"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-3.4.6.tgz#a12669d460a29098da85e16c2c15992a8cd4df05"
   dependencies:
     broccoli-funnel "^2.0.1"
     broccoli-merge-trees "^2.0.0"
@@ -5606,9 +5606,9 @@ markdown-it@^8.3.0, markdown-it@^8.3.1:
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
 
-marked@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.4.0.tgz#9ad2c2a7a1791f10a852e0112f77b571dce10c66"
+marked@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-0.5.2.tgz#3efdb27b1fd0ecec4f5aba362bddcd18120e5ba9"
 
 matcher-collection@^1.0.0, matcher-collection@^1.0.5:
   version "1.0.5"
